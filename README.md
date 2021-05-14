@@ -1,7 +1,6 @@
 # Greetings! 👋 I'm Dmitry
 
 - 🇷🇺 I live in St. Petersburg
-- 🏛 Working in Fabergé Museum
 - ✨ I'm writing on JavaScript 
 - 👨‍💻 Interested in front-end and interfaces
 - 🔮 Love UX design and new technologies
